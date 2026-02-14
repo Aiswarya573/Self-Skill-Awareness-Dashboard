@@ -1,5 +1,7 @@
 # 📊 Self Skill Awareness Dashboard
 
+![Dashboard Preview](Dashboard.png)
+
 ## 🔎 Project Overview
 This project presents a data-driven analysis of self skill awareness distribution among participants using Microsoft Excel.  
 
